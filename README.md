@@ -5,10 +5,10 @@
 - Watch Project Demo - [youtube](https://youtu.be/0GZ_3DighyE)
 <br>
 
-- Web Page - [https://twilightbot.azurewebsites.net/](https://twilightbot.azurewebsites.net/)
+- Web Page - [https://aihackathon.azurewebsites.net/](https://aihackathon.azurewebsites.net/)
 <br>
  
-- Android - [Bot-Apk](https://drive.google.com/file/d/1UDit-wS1xf8yZNlONfpBIV3rC_DmarMZ/view)
+- Android - [Bot-Apk](https://drive.google.com/file/d/1mwGx6dIYh3HIOSXfS2nPD_9QB6E_j8YL/view)
  ![image](https://user-images.githubusercontent.com/101945531/206912544-fe16b284-31dd-4af2-bb59-42844321cdf6.png)
 
 ## Inspiration
