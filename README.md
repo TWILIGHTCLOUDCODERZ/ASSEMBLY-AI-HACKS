@@ -9,6 +9,8 @@
 <br>
  
 - Android - [Bot-Apk](https://drive.google.com/file/d/1UDit-wS1xf8yZNlONfpBIV3rC_DmarMZ/view)
+ ![image](https://user-images.githubusercontent.com/101945531/206912544-fe16b284-31dd-4af2-bb59-42844321cdf6.png)
+
 ## Inspiration
 Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
@@ -132,6 +134,7 @@ You can connectyour Health Bot to interact with your web application’s users t
 3. Select the View action of theWeb Chat channel
 4. Follow thesteps demonstrated in the GitHub repository to embed the Health Bot in the web application as an
 iFrame or as a web pageelement (div embedding).
+![image](https://user-images.githubusercontent.com/101945531/206912563-97ba6247-cd97-4378-9ce6-4b99fa2f540c.png)
 
 **Scan and Test:-**
 
